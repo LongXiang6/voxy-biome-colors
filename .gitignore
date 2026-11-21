@@ -1,0 +1,3 @@
+*.jar
+classpath.txt
+__pycache__/
